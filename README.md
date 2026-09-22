@@ -1,12 +1,6 @@
 <div align="center">
 
-
-
-\# MEHDI ALI
-
-
+# MEHDI ALI
 
 ```text
-
-imehdiali9@github \~ $ whoami
-
+imehdiali9@github ~ $ whoami
