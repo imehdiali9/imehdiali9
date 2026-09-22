@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="490"
+     height="370"
+     viewBox="0 0 490 370">
+
+    <rect
+        width="490"
+        height="370"
+        rx="14"
+        fill="#0d1117"
+        stroke="#30363d"
+        stroke-width="1.5"/>
+
+    <!-- Terminal top bar -->
+    <circle cx="22" cy="22" r="5" fill="#ff5f56"/>
+    <circle cx="40" cy="22" r="5" fill="#ffbd2e"/>
+    <circle cx="58" cy="22" r="5" fill="#27c93f"/>
+
+    <text
+        x="78"
+        y="27"
+        fill="#8b949e"
+        font-family="monospace"
+        font-size="12">
+        mehdi@github: ~
+    </text>
+
+    <!-- Prompt -->
+    <text
+        x="28"
+        y="65"
+        fill="#39d353"
+        font-family="monospace"
+        font-size="13">
+        $ whoami
+    </text>
+
+    <!-- Name -->
+    <text
+        x="28"
+        y="94"
+        fill="#f0f6fc"
+        font-family="monospace"
+        font-size="23"
+        font-weight="bold">
+        MEHDI ALI
+    </text>
+
+    <!-- Divider -->
+    <line
+        x1="28"
+        y1="112"
+        x2="462"
+        y2="112"
+        stroke="#30363d"
+        stroke-width="1"/>
+
+    <!-- neofetch-style rows -->
+
+    <g opacity="0">
+        <text
+            x="30"
+            y="140"
+            fill="#8b949e"
+            font-family="monospace"
+            font-size="12"
+            font-weight="bold">
+            ROLE
+        </text>
+
+        <text
+            x="150"
+            y="140"
+            fill="#c9d1d9"
+            font-family="monospace"
+            font-size="12">
+            IT / Software Developer
+        </text>
+
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.15s"
+            fill="freeze"/>
+    </g>
+
+    <g opacity="0">
+        <text
+            x="30"
+            y="165"
+            fill="#8b949e"
+            font-family="monospace"
+            font-size="12"
+            font-weight="bold">
+            LOCATION
+        </text>
+
+        <text
+            x="150"
+            y="165"
+            fill="#c9d1d9"
+            font-family="monospace"
+            font-size="12">
+            Kochi, Kerala, IN
+        </text>
+
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.27s"
+            fill="freeze"/>
+    </g>
+
+    <g opacity="0">
+        <text
+            x="30"
+            y="190"
+            fill="#8b949e"
+            font-family="monospace"
+            font-size="12"
+            font-weight="bold">
+            EDUCATION
+        </text>
+
+        <text
+            x="150"
+            y="190"
+            fill="#c9d1d9"
+            font-family="monospace"
+            font-size="12">
+            B.Tech IT @ CUSAT
+        </text>
+
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.39s"
+            fill="freeze"/>
+    </g>
+
+    <g opacity="0">
+        <text
+            x="30"
+            y="215"
+            fill="#8b949e"
+            font-family="monospace"
+            font-size="12"
+            font-weight="bold">
+            STACK
+        </text>
+
+        <text
+            x="150"
+            y="215"
+            fill="#c9d1d9"
+            font-family="monospace"
+            font-size="12">
+            JS / C / Python / Shell
+        </text>
+
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.51s"
+            fill="freeze"/>
+    </g>
+
+    <g opacity="0">
+        <text
+            x="30"
+            y="240"
+            fill="#8b949e"
+            font-family="monospace"
+            font-size="12"
+            font-weight="bold">
+            WEB
+        </text>
+
+        <text
+            x="150"
+            y="240"
+            fill="#c9d1d9"
+            font-family="monospace"
+            font-size="12">
+            React / A-Frame / Tailwind
+        </text>
+
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.63s"
+            fill="freeze"/>
+    </g>
+
+    <g opacity="0">
+        <text
+            x="30"
+            y="265"
+            fill="#8b949e"
+            font-family="monospace"
+            font-size="12"
+            font-weight="bold">
+            SYSTEMS
+        </text>
+
+        <text
+            x="150"
+            y="265"
+            fill="#c9d1d9"
+            font-family="monospace"
+            font-size="12">
+            Linux / AOSP / Android
+        </text>
+
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.75s"
+            fill="freeze"/>
+    </g>
+
+    <g opacity="0">
+        <text
+            x="30"
+            y="290"
+            fill="#8b949e"
+            font-family="monospace"
+            font-size="12"
+            font-weight="bold">
+            FOCUS
+        </text>
+
+        <text
+            x="150"
+            y="290"
+            fill="#c9d1d9"
+            font-family="monospace"
+            font-size="12">
+            WebVR / ROM Development
+        </text>
+
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.87s"
+            fill="freeze"/>
+    </g>
+
+    <g opacity="0">
+        <text
+            x="30"
+            y="315"
+            fill="#8b949e"
+            font-family="monospace"
+            font-size="12"
+            font-weight="bold">
+            STATUS
+        </text>
+
+        <text
+            x="150"
+            y="315"
+            fill="#c9d1d9"
+            font-family="monospace"
+            font-size="12">
+            ONLINE • AVAILABLE
+        </text>
+
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.99s"
+            fill="freeze"/>
+    </g>
+
+    <!-- Bottom prompt -->
+    <text
+        x="30"
+        y="345"
+        fill="#39d353"
+        font-family="monospace"
+        font-size="12">
+        $
+    </text>
+
+    <rect
+        x="43"
+        y="333"
+        width="7"
+        height="15"
+        fill="#c9d1d9">
+        <animate
+            attributeName="opacity"
+            values="1;0;1"
+            dur="1s"
+            repeatCount="indefinite"/>
+    </rect>
+
+</svg>
