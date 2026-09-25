@@ -6690,6 +6690,24 @@
             fill="freeze"/>
     </rect>
 
+    <rect
+        x="820"
+        y="98"
+        width="12"
+        height="12"
+        rx="2"
+        fill="#161b22"
+        opacity="0">
+
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.25s"
+            begin="2.500s"
+            fill="freeze"/>
+    </rect>
+
     <text
         x="665"
         y="137"
